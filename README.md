@@ -10,14 +10,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
-
+  
 ## Overview
 
 ### Screenshot
@@ -27,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here]([https://your-solution-url.com](https://github.com/GraceRosario/QR-code-componeent))
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 
@@ -120,6 +114,3 @@ div = visual grouping only
   <h2>Summary / CTA</h2>
 </section>
 ```
-
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
