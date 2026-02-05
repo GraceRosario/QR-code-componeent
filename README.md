@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/GraceRosario/QR-code-componeent)
-- Live Site URL: [Add live site URL here](https://gracerosario.github.io/QR-code-component/)
+- Solution URL: [solution URL here](https://github.com/GraceRosario/QR-code-componeent)
+- Live Site URL: [live site URL here](https://gracerosario.github.io/QR-code-component/)
 
 
 ## My process
@@ -114,4 +114,5 @@ div = visual grouping only
   <h2>Summary / CTA</h2>
 </section>
 ```
+
 
